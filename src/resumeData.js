@@ -46,10 +46,10 @@ let resumeData = {
         "Achievements2":"Developed a single pane view dashboard for an entire Ad Serving application using Spark, Kafka and Grafana."
       },
       {
-        "CompanyName":"NTT Data",
-        "specialization":"Senior Data Enginner",
-        "MonthOfLeaving":"October",
-        "YearOfLeaving":"2021 - August 2022",
+        "CompanyName":"Boehringer Ingelheim",
+        "specialization":"Web Developer and Business Analyst",
+        "MonthOfLeaving":"July",
+        "YearOfLeaving":"2020 - January 2021",
         "Achievements":"Migrated an in-house Hadoop cluster to AWS using AWS Elastic Kubernetes service, Redshift, and AWS S3.",
         "Achievements2":"Moved data from AWS S3 to Redshift using Spark and Python Scripts.",
         "Achievements3":"Migrated Apache PIG script to Spark Scripts.",
