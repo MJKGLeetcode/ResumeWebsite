@@ -33,7 +33,7 @@ export default class About extends Component {
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <span><a href="http://keshav-gupta.com/" target="_blank" rel="noopener noreferrer">Keshav Gupta - My Website</a></span>
+                    <span><a href="https://keshav-gupta-sde.com/" target="_blank" rel="noopener noreferrer">Keshav Gupta - My Website</a></span>
        					   </p>
                   </div>
                </div>
